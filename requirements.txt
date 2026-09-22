@@ -1,4 +1,5 @@
 fastapi
 uvicorn[standard]
-demoparser2
 requests
+demoparser2
+polars
