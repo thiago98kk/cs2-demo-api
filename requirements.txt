@@ -1,0 +1,4 @@
+fastapi
+uvicorn[standard]
+demoparser2
+requests
